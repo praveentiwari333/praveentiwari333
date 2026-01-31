@@ -28,12 +28,10 @@
 🔹 Authentication & Authorization (JWT)  
 🔹 Microservices-based application  
 
-👉 Check my pinned repositories below ⬇️
-
 ---
 
 ## 📊 GitHub Stats
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveentiwari333&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=praveentiwari333&show_icons=true&theme=default)
 
 ---
 
