@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Praveen Kumar 👋
 
-<!--
-**praveentiwari333/praveentiwari333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java | Spring Boot | Microservices | REST APIs  
+📍 India  
+💡 Interested in Backend Development & System Design
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Java, Spring Boot, Hibernate
+- REST APIs, JWT, Kafka
+- MySQL, MongoDB
+- Git, GitHub, Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- Building microservices projects
+- Learning Kafka & system design
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/yourprofile
